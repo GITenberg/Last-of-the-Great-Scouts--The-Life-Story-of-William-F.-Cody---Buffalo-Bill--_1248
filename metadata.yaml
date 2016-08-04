@@ -1,0 +1,29 @@
+_repo: Last-of-the-Great-Scouts--The-Life-Story-of-William-F.-Cody---Buffalo-Bill--_1248
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wetmore, Helen Cody
+    alias: Cody, Helen
+    gutenberg_agent_id: '571'
+    url: http://www.gutenberg.org/2009/agents/571
+description: ''
+gutenberg_issued: '2006-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Biography'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcsh 'Buffalo Bill''s Wild West Show'
+- !lcsh 'Buffalo Bill, 1846-1917'
+- !lcc 'F590.3'
+- !lcsh 'Pioneers -- West (U.S.) -- Biography'
+- !lcsh 'Scouts (Reconnaissance) -- West (U.S.) -- Biography'
+- !lcsh 'Entertainers -- United States -- Biography'
+- GITenberg
+title: 'Last of the Great Scouts: The Life Story of William F. Cody ["Buffalo Bill"]'
+url: http://www.gutenberg.org/ebooks/1248
